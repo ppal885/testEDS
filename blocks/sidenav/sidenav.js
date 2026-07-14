@@ -1,6 +1,6 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"topiic","url":"contents/topiic"}]
-const mapTitle = "mapping"
+const treeData = [{"displayName":"file1","url":"contents/-asset-processing/file1"}]
+const mapTitle = "map1"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
 function expandHeirarchy(element, root) {
