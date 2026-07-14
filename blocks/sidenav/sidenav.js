@@ -1,6 +1,6 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"file1","url":"contents/-asset-processing/file1"}]
-const mapTitle = "map1"
+const treeData = [{"displayName":"Bind ResourceQuota and LimitRange to a namespace","url":"contents/t-namespace-quota-limitrange"}]
+const mapTitle = "testorphan"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
 function expandHeirarchy(element, root) {
