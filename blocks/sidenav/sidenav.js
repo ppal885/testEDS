@@ -1,5 +1,5 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"Automatic Pilot","url":"contents/topics/automatic-pilot"}]
+const treeData = [{"displayName":"Automatic Pilot","url":"contents/pilot-training-mitchell-bomber/topics/automatic-pilot"}]
 const mapTitle = "markdown_map"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
