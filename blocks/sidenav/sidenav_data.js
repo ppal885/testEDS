@@ -1,1 +1,1 @@
-export default [{"displayName":"Automatic Pilot","url":"contents/topics/automatic-pilot"}]
+export default [{"displayName":"Automatic Pilot","url":"contents/pilot-training-mitchell-bomber/topics/automatic-pilot"}]
