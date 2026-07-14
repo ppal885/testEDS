@@ -1,1 +1,1 @@
-export default [{"displayName":"file1","url":"contents/-asset-processing/file1"}]
+export default [{"displayName":"Bind ResourceQuota and LimitRange to a namespace","url":"contents/t-namespace-quota-limitrange"}]
