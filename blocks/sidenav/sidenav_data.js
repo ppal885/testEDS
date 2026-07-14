@@ -1,1 +1,1 @@
-export default [{"displayName":"Bind ResourceQuota and LimitRange to a namespace","url":"contents/t-namespace-quota-limitrange"}]
+export default [{"displayName":"Adobe India","url":"contents/adobe-india"}]
