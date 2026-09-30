@@ -1,6 +1,6 @@
 import { migrateTree } from "../utils.js";
-const treeData = [{"displayName":"Adobe India","url":"contents/adobe-india"}]
-const mapTitle = "html5_generation"
+const treeData = [{"displayName":"Adobe India","url":"contents/adobe-india"},{"displayName":"map_one","isMap":true,"children":[{"displayName":"ssssss","url":"contents/check/guid-55b6e083-d046-438c-aefa-145085f1f6b1"},{"displayName":"sss","url":"contents/check/guid-01851f17-cb45-4b75-ab12-3576d05def75"}],"_key":"GUID-d1755431-bed4-469f-8220-03b5c1b884c6","publishSubfolder":"check","assets":["contents/check/07bb24e8-95e3-4742-a59f-75d37077f057.png","contents/check/image-1.jpeg"]}]
+const mapTitle = "testEDS-main"
 const isDesktop = window.matchMedia("(min-width: 900px)");
 
 function expandHeirarchy(element, root) {
